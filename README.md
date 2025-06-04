@@ -1,21 +1,21 @@
-# 🧠 Memory Matching Game
+#Memory Matching Game
 
 A simple memory card matching game made with HTML, CSS, and JavaScript.
 
-## 🎮 Features
+#Features
 
 - Flip cards to reveal symbols
 - Match identical pairs
 - Basic animation and game logic
 - Restart functionality
 
-## 🛠 Technologies Used
+#Technologies Used
 
 - HTML5
 - CSS3 (with transitions)
 - JavaScript (vanilla)
 
-## 🚀 How to Play
+#How to Play
 
 1. Open `index.html` in any browser.
 2. Click to flip two cards at a time.
